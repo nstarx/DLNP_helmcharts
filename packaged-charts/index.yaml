@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   sample-webapp:
   - apiVersion: v2
-    appVersion: 0.1.0
-    created: "2025-03-11T11:10:07.343681213Z"
+    appVersion: 0.1.1
+    created: "2025-03-11T11:48:43.184085968Z"
     description: A Helm chart for Kubernetes
-    digest: 7c5a824c3a8a50d1b6bfe8f8df39cda35ffaac2ceab2bf6356c3af430ea68f41
+    digest: 3e2579f1141fc1fe37f317ff43f1cfa93b247c524662c005d123a86c27811496
     name: sample-webapp
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   sample_webapp:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-11T11:10:07.374142328Z"
+    created: "2025-03-11T11:48:43.184329765Z"
     description: A Helm chart for Kubernetes
     digest: 8e0c928ceb09a6155b88df07d938de4f4bb7473e7cd508db6ca7332a234f0ef8
     name: sample_webapp
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/nstarx/DLNP_helmcharts/main/packaged-charts/sample_webapp-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-11T11:10:07.342057128Z"
+generated: "2025-03-11T11:48:43.183558273Z"
