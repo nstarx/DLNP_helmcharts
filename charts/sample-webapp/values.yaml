@@ -11,3 +11,5 @@ sampleWebApp:
       repository: nstarx.azurecr.io/nstarxpatch/sample_webapp
       tag: 0.1.0
       pullPolicy: IfNotPresent
+    imagePullSecrets:
+      - name: azurecred
