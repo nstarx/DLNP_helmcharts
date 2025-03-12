@@ -3,7 +3,7 @@ entries:
   sample-webapp:
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2025-03-12T18:19:01.733899+02:00"
+    created: "2025-03-12T18:27:34.058552+02:00"
     description: A Helm chart for Kubernetes
     digest: aa6a54b96de05f348832205ccb72b47171d6649f10e83b816006b5bc194c08d5
     name: sample-webapp
@@ -13,7 +13,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2025-03-12T18:19:01.733757+02:00"
+    created: "2025-03-12T18:27:34.058412+02:00"
     description: A Helm chart for Kubernetes
     digest: 7af80874f718c9be10b850f9df3e630d9158747c2fb968f446297d06f1c9e223
     name: sample-webapp
@@ -23,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2025-03-12T18:19:01.733608+02:00"
+    created: "2025-03-12T18:27:34.058268+02:00"
     description: A Helm chart for Kubernetes
     digest: 2809374c320ca578a0e66f01699994c27ba4b718e3da5b83fb89003625b6ca6a
     name: sample-webapp
@@ -34,7 +34,7 @@ entries:
   sample_webapp:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-12T18:19:01.734034+02:00"
+    created: "2025-03-12T18:27:34.058679+02:00"
     description: A Helm chart for Kubernetes
     digest: 8e0c928ceb09a6155b88df07d938de4f4bb7473e7cd508db6ca7332a234f0ef8
     name: sample_webapp
@@ -42,4 +42,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/nstarx/DLNP_helmcharts/main/packaged-charts/sample_webapp-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-12T18:19:01.73337+02:00"
+generated: "2025-03-12T18:27:34.05803+02:00"
