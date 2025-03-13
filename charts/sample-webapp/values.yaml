@@ -1,7 +1,7 @@
 kubernetesClusterDomain: cluster.local
 sampleWebApp:
   ports:
-  - port: 80
+  - port: 89
     protocol: TCP
     targetPort: 5000
   replicas: 1
