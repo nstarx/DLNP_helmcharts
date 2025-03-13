@@ -26,7 +26,9 @@ spec:
         name: web
         ports:
         - containerPort: 5000
-        resources: {}
+        resources: {{- toYaml .Values.sampleWebApp.web.resources | nindent 10 }}
+      imagePullSecrets:
+      - name: regcred
 ---
 apiVersion: v1
 kind: Service
